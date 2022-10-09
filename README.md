@@ -1,3 +1,5 @@
+![tcrfundweb](https://user-images.githubusercontent.com/41393510/194784044-25c8cba1-0fc6-4ba8-96e0-823f5d4eb01f.jpg)
+
 - 👋 Hi, I’m @tcrfund
 - 👀 I’m interested in advocating and implementing the UN SDGs set for 2030.
 - 🌱 I’m currently learning to implement an simple searchable elearning & capacity building plaform for morden urban planning issues.
